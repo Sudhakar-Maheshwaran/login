@@ -65,5 +65,5 @@ const validateEmail = (email) => {
 };
 
 function link(){
-    window.location.href ="/web design/project/signup.html"
+    window.location.href ="./index.html"
 }

@@ -72,3 +72,9 @@ p{
 a{
     color: blue;
 }
+
+@media screen and (max-width: 430px){
+    .login-container{
+        width: 260px;
+    }
+}
